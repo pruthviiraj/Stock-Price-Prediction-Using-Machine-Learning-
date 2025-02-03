@@ -23,6 +23,7 @@ This project implements **machine learning models** to predict stock price trend
 📁 Stock-Analysis-ML
 
 ┣ 📜 stock_analysis.ipynb # Jupyter Notebook with complete code
+┣ 📜 ML Project 1.pdf # Project Problem statement
 ┣ 📜 README.md # Project documentation
 
 
