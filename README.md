@@ -20,12 +20,13 @@ This project implements **machine learning models** to predict stock price trend
 
 ## Project Structure
 
+```
 📁 Stock-Analysis-ML
 
 ┣ 📜 stock_analysis.ipynb # Jupyter Notebook with complete code
 ┣ 📜 ML Project 1.pdf # Project Problem statement
 ┣ 📜 README.md # Project documentation
-
+```
 
 ## Results  
 - **Strategy 1 (Classification Approach)**: Achieved **54% accuracy** with SVM.  
